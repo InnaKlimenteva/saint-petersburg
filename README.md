@@ -1,3 +1,5 @@
+<img src="https://giphy.com/stickers/saintpetersburg-saint-petersburg-g37DA2AVfgg7nkmpOD"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
